@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CFF"]
+	path = CFF
+	url = https://github.com/cran/CFF
+	shallow = true
+	registered = true
+[submodule "GACFF"]
+	path = GACFF
+	url = https://github.com/cran/GACFF
+	shallow = true
+	registered = true
